@@ -60,8 +60,8 @@
 
 
 <br><br> <!-- إضافة سطرين فارغين -->
-<div style="text-align: left;"> <!-- محاذاة المحتوى في المنتصف -->
-   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmanasr14&" alt="github-streak" />
+<div style="text-align: center;"> <!-- محاذاة المحتوى في المنتصف -->
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmanasr14&" alt="github-streak" />
 </div>
 
 
