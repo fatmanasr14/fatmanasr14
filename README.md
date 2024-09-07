@@ -50,15 +50,16 @@
 
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fatmanasr14&show_icons=true&locale=en" alt="github-stats" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmanasr14&" alt="github-streak" />
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmanasr14&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-<br>
-
-<br>
+ ## <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmanasr14&show_icons=true&locale=en&layout=compact" alt="top-langs" />
 <br>
 
 <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmanasr14&" alt="github-streak" />
+<br>
+
+<br>
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmanasr14&show_icons=true&locale=en&layout=compact" alt="top-langs" />
 <br>
 
 
