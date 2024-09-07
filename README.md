@@ -58,9 +58,11 @@
 <br>
 <br>
 
-<br>
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmanasr14&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-<br>
+<br><br> <!-- إضافة سطرين فارغين -->
+<div style="text-align: center;"> <!-- محاذاة المحتوى في المنتصف -->
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmanasr14&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+</div>
+
 
 
 <p align="center"> 
