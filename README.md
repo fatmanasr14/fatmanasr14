@@ -42,6 +42,7 @@
 
 <br>
 <br>
+
 <br>
 
 
@@ -56,9 +57,9 @@
 <br>
 <br>
 
-<p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmanasr14&" alt="github-streak" />
-</p>
+<br>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmanasr14&" alt="github-streak" />
+<br>
 
 
 <p align="center"> 
