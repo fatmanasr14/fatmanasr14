@@ -8,11 +8,13 @@
 <br>
   <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
  
+<p style="margin-right: 20px;">
     🌱 I’m currently learning <strong>Flutter & Data Science</strong><br>
     👨‍💻 All of my projects are available at <a href="https://github.com/fatmanasr14">GitHub</a><br>
     📫 How to reach me: <strong>ntoqa55@gmail.com</strong><br>
     📄 Know about my experiences on <a href="https://www.linkedin.com/in/fatma-nasr-65545324a">LinkedIn</a><br>
     ⚡ Fun fact: <strong>Teamwork ✌️</strong>
+  </p>
 <br> 
   
  
