@@ -56,13 +56,13 @@
 <br>
 <br>
 
-<br>
+<p>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmanasr14&" alt="github-streak" />
-<br>
+</p>
 
 
-<br align="center"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=fatmanasr14" alt="trophy" />
   </a> 
-<br>
+</p>
