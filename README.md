@@ -50,6 +50,7 @@
 
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fatmanasr14&show_icons=true&locale=en" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmanasr14&show_icons=true&locale=en&layout=compact" alt="top-langs" />
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmanasr14&" alt="github-streak" />
 
 
@@ -60,12 +61,12 @@
 
 <br><br> <!-- إضافة سطرين فارغين -->
 <div style="text-align: center;"> <!-- محاذاة المحتوى في المنتصف -->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmanasr14&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmanasr14&" alt="github-streak" />
 </div>
 
 
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=fatmanasr14" alt="trophy" />
   </a> 
