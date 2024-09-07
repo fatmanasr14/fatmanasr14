@@ -5,17 +5,18 @@
   <img src="https://komarev.com/ghpvc/?username=fatmanasr14&label=Profile%20views&color=0e75b6&style=flat" alt="fatmanasr14" />
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-  <p style="margin-right: 20px;">
+<br>
+  <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+ 
     🌱 I’m currently learning <strong>Flutter & Data Science</strong><br>
     👨‍💻 All of my projects are available at <a href="https://github.com/fatmanasr14">GitHub</a><br>
     📫 How to reach me: <strong>ntoqa55@gmail.com</strong><br>
     📄 Know about my experiences on <a href="https://www.linkedin.com/in/fatma-nasr-65545324a">LinkedIn</a><br>
     ⚡ Fun fact: <strong>Teamwork ✌️</strong>
-  </p>
+<br> 
   
-  <img src="https://avatars.githubusercontent.com/u/99143943?v=4" alt="profile pic" width="150" height="150" style="border-radius: 50%; margin-left: 20px;">
-</div>
+ 
+
 
 
 
