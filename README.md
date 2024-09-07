@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=fatmanasr14&label=Profile%20views&color=0e75b6&style=flat" alt="fatmanasr14" />
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-  <img src="https://avatars.githubusercontent.com/u/99143943?v=4" alt="profile pic" width="150" height="150" style="border-radius: 50%; margin-right: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px; flex-direction: row-reverse;">
+  <img src="https://avatars.githubusercontent.com/u/99143943?v=4" alt="profile pic" width="150" height="150" style="border-radius: 50%; margin-left: 20px;">
   
   <p>
     🌱 I’m currently learning <strong>Flutter & Data Science</strong><br>
@@ -16,6 +16,7 @@
     ⚡ Fun fact: <strong>Teamwork ✌️</strong>
   </p>
 </div>
+
 
 
 
